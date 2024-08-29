@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Megala Practice\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DD75C0-77E1-4D9A-945C-ABC473866CB3}|LibraryManagement\\LibraryManagement.csproj|h:\\megala practice\\librarymanagement\\librarymanagement\\repository\\sqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DD75C0-77E1-4D9A-945C-ABC473866CB3}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repository\\sqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DD75C0-77E1-4D9A-945C-ABC473866CB3}|LibraryManagement\\LibraryManagement.csproj|h:\\megala practice\\librarymanagement\\librarymanagement\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DD75C0-77E1-4D9A-945C-ABC473866CB3}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DD75C0-77E1-4D9A-945C-ABC473866CB3}|LibraryManagement\\LibraryManagement.csproj|h:\\megala practice\\librarymanagement\\librarymanagement\\irepository\\isqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DD75C0-77E1-4D9A-945C-ABC473866CB3}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\irepository\\isqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DD75C0-77E1-4D9A-945C-ABC473866CB3}|LibraryManagement\\LibraryManagement.csproj|h:\\megala practice\\librarymanagement\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DD75C0-77E1-4D9A-945C-ABC473866CB3}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DD75C0-77E1-4D9A-945C-ABC473866CB3}|LibraryManagement\\LibraryManagement.csproj|h:\\megala practice\\librarymanagement\\librarymanagement\\irepository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DD75C0-77E1-4D9A-945C-ABC473866CB3}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\irepository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DD75C0-77E1-4D9A-945C-ABC473866CB3}|LibraryManagement\\LibraryManagement.csproj|h:\\megala practice\\librarymanagement\\librarymanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DD75C0-77E1-4D9A-945C-ABC473866CB3}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DD75C0-77E1-4D9A-945C-ABC473866CB3}|LibraryManagement\\LibraryManagement.csproj|h:\\megala practice\\librarymanagement\\librarymanagement\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DD75C0-77E1-4D9A-945C-ABC473866CB3}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Megala Practice\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
+              "ToolTip": "H:\\Megala Practice\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "LibraryManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:56:07.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISqlRepository.cs",
+              "DocumentMoniker": "H:\\Megala Practice\\LibraryManagement\\LibraryManagement\\IRepository\\ISqlRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\IRepository\\ISqlRepository.cs",
+              "ToolTip": "H:\\Megala Practice\\LibraryManagement\\LibraryManagement\\IRepository\\ISqlRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\IRepository\\ISqlRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:54:41.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "H:\\Megala Practice\\LibraryManagement\\LibraryManagement\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\StudentController.cs",
+              "ToolTip": "H:\\Megala Practice\\LibraryManagement\\LibraryManagement\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:51:40.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlRepository.cs",
+              "DocumentMoniker": "H:\\Megala Practice\\LibraryManagement\\LibraryManagement\\Repository\\SqlRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repository\\SqlRepository.cs",
+              "ToolTip": "H:\\Megala Practice\\LibraryManagement\\LibraryManagement\\Repository\\SqlRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\Repository\\SqlRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwEUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:17:06.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "H:\\Megala Practice\\LibraryManagement\\LibraryManagement\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repository\\StudentRepository.cs",
+              "ToolTip": "H:\\Megala Practice\\LibraryManagement\\LibraryManagement\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\Repository\\StudentRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIA5wBsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:15:54.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "H:\\Megala Practice\\LibraryManagement\\LibraryManagement\\IRepository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\IRepository\\IStudentRepository.cs",
+              "ToolTip": "H:\\Megala Practice\\LibraryManagement\\LibraryManagement\\IRepository\\IStudentRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\IRepository\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:03:43.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "H:\\Megala Practice\\LibraryManagement\\LibraryManagement\\Repository\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repository\\DepartmentRepository.cs",
+              "ToolTip": "H:\\Megala Practice\\LibraryManagement\\LibraryManagement\\Repository\\DepartmentRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\Repository\\DepartmentRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:15:50.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
